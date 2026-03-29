@@ -1,0 +1,8 @@
+build/
+
+# macOS
+.DS_Store
+
+# Debug symbols and large native artifacts
+*.pdb
+*.dSYM/
